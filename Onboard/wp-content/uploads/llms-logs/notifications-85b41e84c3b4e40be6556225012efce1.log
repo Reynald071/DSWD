@@ -1,0 +1,604 @@
+2024-02-13 02:56:44 - Queuing email notification ID #5
+2024-02-13 02:56:45 - Dispatching llms_notification_processor_email
+2024-02-13 02:56:46 - sending email notification ID #5
+2024-02-13 02:56:48 - Error sending email notification ID #5
+2024-02-13 02:56:48 - Array
+(
+    [id] => 5
+    [created] => 2024-02-13 02:56:44
+    [updated] => 2024-02-13 02:56:44
+    [status] => new
+    [type] => email
+    [subscriber] => 4
+    [trigger_id] => student_welcome
+    [user_id] => 4
+    [post_id] => 
+    [html] => <p>Hello Russel Delola,</p>
+<p>Here's some helpful information to help you get started at E-Onboard Orientation.</p>
+<p><b>Your Login</b>: Russel</p>
+<p><b>Your Dashboard</b>: <a href="http://localhost/wordpress/student-registration/">http://localhost/wordpress/student-registration/</a></p>
+<p>If you forgot or don't have a password you can reset it now so you can login and get started: <a href="http://localhost/wordpress/student-registration/lost-password/">http://localhost/wordpress/student-registration/lost-password/</a></p>
+
+)
+
+2024-02-13 02:56:48 - Processing for llms_notification_processor_email finished
+2024-02-15 05:15:47 - Queuing email notification ID #10
+2024-02-15 05:16:32 - Dispatching llms_notification_processor_email
+2024-02-15 05:16:33 - sending email notification ID #10
+2024-02-15 05:16:35 - Error sending email notification ID #10
+2024-02-15 05:16:35 - Array
+(
+    [id] => 10
+    [created] => 2024-02-15 05:15:47
+    [updated] => 2024-02-15 05:15:47
+    [status] => new
+    [type] => email
+    [subscriber] => 1
+    [trigger_id] => course_complete
+    [user_id] => 2
+    [post_id] => 105
+    [html] => <p>Congratulations!   Cyrel Daet completed Module 1 &#8211; DSWD AS AN ORGANIZATION</p>
+
+)
+
+2024-02-15 05:16:35 - Processing for llms_notification_processor_email finished
+2024-02-15 05:33:25 - Queuing email notification ID #17
+2024-02-15 05:33:28 - Dispatching llms_notification_processor_email
+2024-02-15 05:33:29 - sending email notification ID #17
+2024-02-15 05:33:32 - Error sending email notification ID #17
+2024-02-15 05:33:32 - Array
+(
+    [id] => 17
+    [created] => 2024-02-15 05:33:25
+    [updated] => 2024-02-15 05:33:25
+    [status] => new
+    [type] => email
+    [subscriber] => 1
+    [trigger_id] => course_complete
+    [user_id] => 6
+    [post_id] => 105
+    [html] => <p>Congratulations!   Russel Delola completed Module 1 &#8211; DSWD AS AN ORGANIZATION</p>
+
+)
+
+2024-02-15 05:33:32 - Processing for llms_notification_processor_email finished
+2024-02-15 05:45:04 - Queuing email notification ID #24
+2024-02-15 05:45:36 - Dispatching llms_notification_processor_email
+2024-02-15 05:45:37 - sending email notification ID #24
+2024-02-15 05:45:39 - Error sending email notification ID #24
+2024-02-15 05:45:39 - Array
+(
+    [id] => 24
+    [created] => 2024-02-15 05:45:04
+    [updated] => 2024-02-15 05:45:04
+    [status] => new
+    [type] => email
+    [subscriber] => 1
+    [trigger_id] => course_complete
+    [user_id] => 7
+    [post_id] => 105
+    [html] => <p>Congratulations!   Nard marimon completed Module 1 &#8211; DSWD AS AN ORGANIZATION</p>
+
+)
+
+2024-02-15 05:45:39 - Processing for llms_notification_processor_email finished
+2024-02-15 06:11:33 - Queuing email notification ID #31
+2024-02-15 06:11:55 - Dispatching llms_notification_processor_email
+2024-02-15 06:11:59 - sending email notification ID #31
+2024-02-15 06:12:01 - Error sending email notification ID #31
+2024-02-15 06:12:01 - Array
+(
+    [id] => 31
+    [created] => 2024-02-15 06:11:33
+    [updated] => 2024-02-15 06:11:33
+    [status] => new
+    [type] => email
+    [subscriber] => 1
+    [trigger_id] => course_complete
+    [user_id] => 8
+    [post_id] => 105
+    [html] => <p>Congratulations!   Maya Don completed Module 1 &#8211; DSWD AS AN ORGANIZATION</p>
+
+)
+
+2024-02-15 06:12:01 - Processing for llms_notification_processor_email finished
+2024-02-15 06:15:44 - Queuing email notification ID #37
+2024-02-15 06:16:29 - Dispatching llms_notification_processor_email
+2024-02-15 06:16:31 - sending email notification ID #37
+2024-02-15 06:16:33 - Error sending email notification ID #37
+2024-02-15 06:16:33 - Array
+(
+    [id] => 37
+    [created] => 2024-02-15 06:15:44
+    [updated] => 2024-02-15 06:15:44
+    [status] => new
+    [type] => email
+    [subscriber] => 1
+    [trigger_id] => course_complete
+    [user_id] => 9
+    [post_id] => 105
+    [html] => <p>Congratulations!   Will chan completed Module 1 &#8211; DSWD AS AN ORGANIZATION</p>
+
+)
+
+2024-02-15 06:16:33 - Processing for llms_notification_processor_email finished
+2024-02-15 06:27:34 - Queuing email notification ID #44
+2024-02-15 06:28:27 - Dispatching llms_notification_processor_email
+2024-02-15 06:28:29 - sending email notification ID #44
+2024-02-15 06:28:31 - Error sending email notification ID #44
+2024-02-15 06:28:31 - Array
+(
+    [id] => 44
+    [created] => 2024-02-15 06:27:34
+    [updated] => 2024-02-15 06:27:34
+    [status] => new
+    [type] => email
+    [subscriber] => 1
+    [trigger_id] => course_complete
+    [user_id] => 10
+    [post_id] => 105
+    [html] => <p>Congratulations!   Renyl Rubio completed Module 1 &#8211; DSWD AS AN ORGANIZATION</p>
+
+)
+
+2024-02-15 06:28:31 - Processing for llms_notification_processor_email finished
+2024-02-15 08:50:35 - Queuing email notification ID #51
+2024-02-15 08:50:38 - Dispatching llms_notification_processor_email
+2024-02-15 08:50:40 - sending email notification ID #51
+2024-02-15 08:50:42 - Error sending email notification ID #51
+2024-02-15 08:50:42 - Array
+(
+    [id] => 51
+    [created] => 2024-02-15 08:50:35
+    [updated] => 2024-02-15 08:50:35
+    [status] => new
+    [type] => email
+    [subscriber] => 1
+    [trigger_id] => course_complete
+    [user_id] => 11
+    [post_id] => 105
+    [html] => <p>Congratulations!   Sam pot completed Module 1 &#8211; DSWD AS AN ORGANIZATION</p>
+
+)
+
+2024-02-15 08:50:42 - Processing for llms_notification_processor_email finished
+2024-02-16 01:18:29 - Queuing email notification ID #57
+2024-02-16 01:18:31 - Dispatching llms_notification_processor_email
+2024-02-16 01:18:34 - sending email notification ID #57
+2024-02-16 01:18:36 - Error sending email notification ID #57
+2024-02-16 01:18:36 - Array
+(
+    [id] => 57
+    [created] => 2024-02-16 01:18:29
+    [updated] => 2024-02-16 01:18:29
+    [status] => new
+    [type] => email
+    [subscriber] => 1
+    [trigger_id] => course_complete
+    [user_id] => 1
+    [post_id] => 107
+    [html] => <p>Congratulations!   You completed Module 2 &#8211; THE GOOD DSWD WORKER</p>
+
+)
+
+2024-02-16 01:18:36 - Processing for llms_notification_processor_email finished
+2024-02-19 00:25:53 - Queuing email notification ID #62
+2024-02-19 00:26:17 - Dispatching llms_notification_processor_email
+2024-02-19 00:26:20 - sending email notification ID #62
+2024-02-19 00:26:22 - Error sending email notification ID #62
+2024-02-19 00:26:22 - Array
+(
+    [id] => 62
+    [created] => 2024-02-19 00:25:53
+    [updated] => 2024-02-19 00:25:53
+    [status] => new
+    [type] => email
+    [subscriber] => 1
+    [trigger_id] => course_complete
+    [user_id] => 1
+    [post_id] => 109
+    [html] => <p>Congratulations!   You completed Module 3 &#8211; THE ACCOUNTABILITIES OF THE DSWD WORKER</p>
+
+)
+
+2024-02-19 00:26:22 - Processing for llms_notification_processor_email finished
+2024-02-19 03:42:49 - Queuing email notification ID #68
+2024-02-19 03:43:16 - Dispatching llms_notification_processor_email
+2024-02-19 03:43:17 - sending email notification ID #68
+2024-02-19 03:43:19 - Error sending email notification ID #68
+2024-02-19 03:43:19 - Array
+(
+    [id] => 68
+    [created] => 2024-02-19 03:42:49
+    [updated] => 2024-02-19 03:42:49
+    [status] => new
+    [type] => email
+    [subscriber] => 1
+    [trigger_id] => course_complete
+    [user_id] => 12
+    [post_id] => 105
+    [html] => <p>Congratulations!   Wendy Lors completed Module 1 &#8211; DSWD as an Organizanation</p>
+
+)
+
+2024-02-19 03:43:19 - Processing for llms_notification_processor_email finished
+2024-02-19 03:53:32 - Queuing email notification ID #75
+2024-02-19 03:54:30 - Dispatching llms_notification_processor_email
+2024-02-19 03:54:31 - sending email notification ID #75
+2024-02-19 03:54:33 - Error sending email notification ID #75
+2024-02-19 03:54:33 - Array
+(
+    [id] => 75
+    [created] => 2024-02-19 03:53:32
+    [updated] => 2024-02-19 03:53:32
+    [status] => new
+    [type] => email
+    [subscriber] => 1
+    [trigger_id] => course_complete
+    [user_id] => 13
+    [post_id] => 105
+    [html] => <p>Congratulations!   Ryan bang completed Module 1 &#8211; DSWD as an Organizanation</p>
+
+)
+
+2024-02-19 03:54:33 - Processing for llms_notification_processor_email finished
+2024-02-19 05:19:01 - Queuing email notification ID #82
+2024-02-19 05:20:22 - Dispatching llms_notification_processor_email
+2024-02-19 05:20:23 - sending email notification ID #82
+2024-02-19 05:20:25 - Error sending email notification ID #82
+2024-02-19 05:20:25 - Array
+(
+    [id] => 82
+    [created] => 2024-02-19 05:19:01
+    [updated] => 2024-02-19 05:19:01
+    [status] => new
+    [type] => email
+    [subscriber] => 1
+    [trigger_id] => course_complete
+    [user_id] => 14
+    [post_id] => 105
+    [html] => <p>Congratulations!   Donn selvistre completed Module 1 &#8211; DSWD as an Organizanation</p>
+
+)
+
+2024-02-19 05:20:25 - Processing for llms_notification_processor_email finished
+2024-02-20 01:02:32 - Queuing email notification ID #92
+2024-02-20 01:02:33 - Dispatching llms_notification_processor_email
+2024-02-20 01:02:34 - sending email notification ID #92
+2024-02-20 01:02:36 - Error sending email notification ID #92
+2024-02-20 01:02:36 - Array
+(
+    [id] => 92
+    [created] => 2024-02-20 01:02:32
+    [updated] => 2024-02-20 01:02:32
+    [status] => new
+    [type] => email
+    [subscriber] => 1
+    [trigger_id] => course_complete
+    [user_id] => 15
+    [post_id] => 105
+    [html] => <p>Congratulations!   Maya jangao completed Module 1 &#8211; DSWD as an Organizanation</p>
+
+)
+
+2024-02-20 01:02:36 - Processing for llms_notification_processor_email finished
+2024-02-22 05:36:42 - Queuing email notification ID #106
+2024-02-22 05:37:35 - Dispatching llms_notification_processor_email
+2024-02-22 05:37:35 - sending email notification ID #106
+2024-02-22 05:37:37 - Error sending email notification ID #106
+2024-02-22 05:37:37 - Array
+(
+    [id] => 106
+    [created] => 2024-02-22 05:36:42
+    [updated] => 2024-02-22 05:36:42
+    [status] => new
+    [type] => email
+    [subscriber] => 1
+    [trigger_id] => course_complete
+    [user_id] => 20
+    [post_id] => 202
+    [html] => <p>Congratulations!   Ronal Rodriguez completed Message from Regional Director</p>
+
+)
+
+2024-02-22 05:37:38 - Processing for llms_notification_processor_email finished
+2024-02-22 05:40:04 - Queuing email notification ID #110
+2024-02-22 05:40:30 - Dispatching llms_notification_processor_email
+2024-02-22 05:40:31 - sending email notification ID #110
+2024-02-22 05:40:33 - Error sending email notification ID #110
+2024-02-22 05:40:33 - Array
+(
+    [id] => 110
+    [created] => 2024-02-22 05:40:04
+    [updated] => 2024-02-22 05:40:04
+    [status] => new
+    [type] => email
+    [subscriber] => 1
+    [trigger_id] => course_complete
+    [user_id] => 20
+    [post_id] => 105
+    [html] => <p>Congratulations!   Ronal Rodriguez completed Module 1 &#8211; DSWD as an Organizanation</p>
+
+)
+
+2024-02-22 05:40:33 - Processing for llms_notification_processor_email finished
+2024-02-22 05:46:57 - Queuing email notification ID #116
+2024-02-22 05:47:26 - Dispatching llms_notification_processor_email
+2024-02-22 05:47:27 - sending email notification ID #116
+2024-02-22 05:47:29 - Error sending email notification ID #116
+2024-02-22 05:47:29 - Array
+(
+    [id] => 116
+    [created] => 2024-02-22 05:46:57
+    [updated] => 2024-02-22 05:46:57
+    [status] => new
+    [type] => email
+    [subscriber] => 1
+    [trigger_id] => course_complete
+    [user_id] => 21
+    [post_id] => 202
+    [html] => <p>Congratulations!   John Sena completed Message from Regional Director</p>
+
+)
+
+2024-02-22 05:47:29 - Processing for llms_notification_processor_email finished
+2024-02-22 05:48:39 - Queuing email notification ID #120
+2024-02-22 05:48:42 - Dispatching llms_notification_processor_email
+2024-02-22 05:48:43 - sending email notification ID #120
+2024-02-22 05:48:45 - Error sending email notification ID #120
+2024-02-22 05:48:45 - Array
+(
+    [id] => 120
+    [created] => 2024-02-22 05:48:39
+    [updated] => 2024-02-22 05:48:39
+    [status] => new
+    [type] => email
+    [subscriber] => 1
+    [trigger_id] => course_complete
+    [user_id] => 21
+    [post_id] => 105
+    [html] => <p>Congratulations!   John Sena completed Module 1 &#8211; DSWD as an Organizanation</p>
+
+)
+
+2024-02-22 05:48:45 - Processing for llms_notification_processor_email finished
+2024-02-22 06:49:26 - Queuing email notification ID #126
+2024-02-22 06:49:50 - Dispatching llms_notification_processor_email
+2024-02-22 06:49:52 - sending email notification ID #126
+2024-02-22 06:49:54 - Error sending email notification ID #126
+2024-02-22 06:49:54 - Array
+(
+    [id] => 126
+    [created] => 2024-02-22 06:49:26
+    [updated] => 2024-02-22 06:49:26
+    [status] => new
+    [type] => email
+    [subscriber] => 1
+    [trigger_id] => course_complete
+    [user_id] => 22
+    [post_id] => 202
+    [html] => <p>Congratulations!   Ryan po completed Message from Regional Director</p>
+
+)
+
+2024-02-22 06:49:54 - Processing for llms_notification_processor_email finished
+2024-02-22 06:52:59 - Queuing email notification ID #130
+2024-02-22 06:53:03 - Dispatching llms_notification_processor_email
+2024-02-22 06:53:05 - sending email notification ID #130
+2024-02-22 06:53:07 - Error sending email notification ID #130
+2024-02-22 06:53:07 - Array
+(
+    [id] => 130
+    [created] => 2024-02-22 06:52:59
+    [updated] => 2024-02-22 06:52:59
+    [status] => new
+    [type] => email
+    [subscriber] => 1
+    [trigger_id] => course_complete
+    [user_id] => 22
+    [post_id] => 105
+    [html] => <p>Congratulations!   Ryan po completed Module 1 &#8211; DSWD as an Organizanation</p>
+
+)
+
+2024-02-22 06:53:07 - Processing for llms_notification_processor_email finished
+2024-02-22 08:02:14 - Queuing email notification ID #136
+2024-02-22 08:02:17 - Dispatching llms_notification_processor_email
+2024-02-22 08:02:19 - sending email notification ID #136
+2024-02-22 08:02:21 - Error sending email notification ID #136
+2024-02-22 08:02:21 - Array
+(
+    [id] => 136
+    [created] => 2024-02-22 08:02:14
+    [updated] => 2024-02-22 08:02:14
+    [status] => new
+    [type] => email
+    [subscriber] => 1
+    [trigger_id] => course_complete
+    [user_id] => 23
+    [post_id] => 202
+    [html] => <p>Congratulations!   Cyrel daet completed Message from Regional Director</p>
+
+)
+
+2024-02-22 08:02:21 - Processing for llms_notification_processor_email finished
+2024-03-29 12:11:53 - Queuing email notification ID #142
+2024-03-29 12:11:56 - Dispatching llms_notification_processor_email
+2024-03-29 12:11:58 - sending email notification ID #142
+2024-03-29 12:12:00 - Error sending email notification ID #142
+2024-03-29 12:12:00 - Array
+(
+    [id] => 142
+    [created] => 2024-03-29 12:11:53
+    [updated] => 2024-03-29 12:11:53
+    [status] => new
+    [type] => email
+    [subscriber] => 1
+    [trigger_id] => course_complete
+    [user_id] => 1
+    [post_id] => 202
+    [html] => <p>Congratulations!   You completed Message from Regional Director</p>
+
+)
+
+2024-03-29 12:12:00 - Processing for llms_notification_processor_email finished
+2024-04-01 05:36:10 - Queuing email notification ID #146
+2024-04-01 05:36:32 - Dispatching llms_notification_processor_email
+2024-04-01 05:36:34 - sending email notification ID #146
+2024-04-01 05:36:36 - Error sending email notification ID #146
+2024-04-01 05:36:36 - Array
+(
+    [id] => 146
+    [created] => 2024-04-01 05:36:10
+    [updated] => 2024-04-01 05:36:10
+    [status] => new
+    [type] => email
+    [subscriber] => 1
+    [trigger_id] => course_complete
+    [user_id] => 24
+    [post_id] => 202
+    [html] => <p>Congratulations!   Kim Aro completed Message from Regional Director</p>
+
+)
+
+2024-04-01 05:36:36 - Processing for llms_notification_processor_email finished
+2024-04-01 05:39:38 - Queuing email notification ID #149
+2024-04-01 05:39:42 - Dispatching llms_notification_processor_email
+2024-04-01 05:39:44 - sending email notification ID #149
+2024-04-01 05:39:46 - Error sending email notification ID #149
+2024-04-01 05:39:46 - Array
+(
+    [id] => 149
+    [created] => 2024-04-01 05:39:38
+    [updated] => 2024-04-01 05:39:38
+    [status] => new
+    [type] => email
+    [subscriber] => 1
+    [trigger_id] => course_complete
+    [user_id] => 24
+    [post_id] => 105
+    [html] => <p>Congratulations!   Kim Aro completed Module 1 &#8211; DSWD as an Organizanation</p>
+
+)
+
+2024-04-01 05:39:47 - Processing for llms_notification_processor_email finished
+2024-04-01 05:45:21 - Queuing email notification ID #154
+2024-04-01 05:45:53 - Dispatching llms_notification_processor_email
+2024-04-01 05:45:54 - sending email notification ID #154
+2024-04-01 05:45:56 - Error sending email notification ID #154
+2024-04-01 05:45:56 - Array
+(
+    [id] => 154
+    [created] => 2024-04-01 05:45:21
+    [updated] => 2024-04-01 05:45:21
+    [status] => new
+    [type] => email
+    [subscriber] => 1
+    [trigger_id] => course_complete
+    [user_id] => 24
+    [post_id] => 107
+    [html] => <p>Congratulations!   Kim Aro completed Module 2 &#8211; The Good DSWD Worker</p>
+
+)
+
+2024-04-01 05:45:56 - Processing for llms_notification_processor_email finished
+2024-04-01 05:46:17 - Queuing email notification ID #158
+2024-04-01 05:46:20 - Dispatching llms_notification_processor_email
+2024-04-01 05:46:22 - sending email notification ID #158
+2024-04-01 05:46:24 - Error sending email notification ID #158
+2024-04-01 05:46:24 - Array
+(
+    [id] => 158
+    [created] => 2024-04-01 05:46:17
+    [updated] => 2024-04-01 05:46:17
+    [status] => new
+    [type] => email
+    [subscriber] => 1
+    [trigger_id] => course_complete
+    [user_id] => 24
+    [post_id] => 109
+    [html] => <p>Congratulations!   Kim Aro completed Module 3 &#8211; The Accountabilities of the DSWD Worker</p>
+
+)
+
+2024-04-01 05:46:24 - Processing for llms_notification_processor_email finished
+2024-04-01 05:54:53 - Queuing email notification ID #162
+2024-04-01 05:54:55 - Dispatching llms_notification_processor_email
+2024-04-01 05:54:56 - sending email notification ID #162
+2024-04-01 05:54:58 - Error sending email notification ID #162
+2024-04-01 05:54:58 - Array
+(
+    [id] => 162
+    [created] => 2024-04-01 05:54:53
+    [updated] => 2024-04-01 05:54:53
+    [status] => new
+    [type] => email
+    [subscriber] => 1
+    [trigger_id] => course_complete
+    [user_id] => 24
+    [post_id] => 111
+    [html] => <p>Congratulations!   Kim Aro completed Module 4 &#8211; Salaries, Benefits and Rewards System</p>
+
+)
+
+2024-04-01 05:54:58 - Processing for llms_notification_processor_email finished
+2024-04-01 06:19:55 - Queuing email notification ID #167
+2024-04-01 06:21:13 - Dispatching llms_notification_processor_email
+2024-04-01 06:21:14 - sending email notification ID #167
+2024-04-01 06:21:16 - Error sending email notification ID #167
+2024-04-01 06:21:16 - Array
+(
+    [id] => 167
+    [created] => 2024-04-01 06:19:55
+    [updated] => 2024-04-01 06:19:55
+    [status] => new
+    [type] => email
+    [subscriber] => 1
+    [trigger_id] => course_complete
+    [user_id] => 25
+    [post_id] => 202
+    [html] => <p>Congratulations!   Joshua Davidson completed Message from Regional Director</p>
+
+)
+
+2024-04-01 06:21:16 - Processing for llms_notification_processor_email finished
+2024-04-01 06:22:40 - Queuing email notification ID #171
+2024-04-01 06:23:32 - Dispatching llms_notification_processor_email
+2024-04-01 06:23:32 - sending email notification ID #171
+2024-04-01 06:23:35 - Error sending email notification ID #171
+2024-04-01 06:23:35 - Array
+(
+    [id] => 171
+    [created] => 2024-04-01 06:22:40
+    [updated] => 2024-04-01 06:22:40
+    [status] => new
+    [type] => email
+    [subscriber] => 1
+    [trigger_id] => course_complete
+    [user_id] => 26
+    [post_id] => 202
+    [html] => <p>Congratulations!   David Johnson completed Message from Regional Director</p>
+
+)
+
+2024-04-01 06:23:35 - Processing for llms_notification_processor_email finished
+2024-04-01 06:35:30 - Queuing email notification ID #175
+2024-04-01 06:35:54 - Dispatching llms_notification_processor_email
+2024-04-01 06:35:55 - sending email notification ID #175
+2024-04-01 06:35:57 - Error sending email notification ID #175
+2024-04-01 06:35:57 - Array
+(
+    [id] => 175
+    [created] => 2024-04-01 06:35:30
+    [updated] => 2024-04-01 06:35:30
+    [status] => new
+    [type] => email
+    [subscriber] => 1
+    [trigger_id] => course_complete
+    [user_id] => 27
+    [post_id] => 202
+    [html] => <p>Congratulations!   Jefferson Saunas completed Message from Regional Director</p>
+
+)
+
+2024-04-01 06:35:57 - Processing for llms_notification_processor_email finished

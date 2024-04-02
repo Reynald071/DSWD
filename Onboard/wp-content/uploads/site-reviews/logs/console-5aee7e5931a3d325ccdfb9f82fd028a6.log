@@ -1,0 +1,4 @@
+[2024-02-21 08:55:00] DEBUG [C:\xampp\htdocs\wordpress\wp-content\plugins\site-reviews\plugin\Integrations\Cache\Controller.php:108] cache::flushing
+[2024-02-21 08:59:59] DEBUG [C:\xampp\htdocs\wordpress\wp-content\plugins\site-reviews\plugin\Integrations\Cache\Controller.php:108] cache::flushing
+[2024-02-22 07:38:06] DEBUG [C:\xampp\htdocs\Onboard\wp-content\plugins\site-reviews\plugin\Integrations\Cache\Controller.php:108] cache::flushing
+[2024-02-22 07:45:19] DEBUG [C:\xampp\htdocs\Onboard\wp-content\plugins\site-reviews\plugin\Integrations\Cache\Controller.php:108] cache::flushing
